@@ -1,3 +1,5 @@
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=bash,linux,mint,redhat,latex,python,pytorch,sklearn,opencv,ruby,rails,js,npm,postgres,docker,git,github,notion&perline=7)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,linux,mint,redhat,latex,python,pytorch,sklearn,opencv,ruby,rails,js,npm,postgres,docker,git,github,notion&perline=7" alt="My Skills" />
+  </a>
 </p>
