@@ -20,9 +20,4 @@
 <p align="center">
   <strong>My Tech Stack:</strong>
 </p>
-<p align="center">
-  <a href="https://github.com/your-github-profile"><img src="https://skillicons.dev/icons?i=bash,linux,mint,redhat,latex,python,pytorch,sklearn,opencv,ruby,rails,js,npm,postgres,docker,git,github,notion&perline=9" alt="My Skills"></a>
-</p>
-<p align="center">
-  <strong>✨ Let's create something amazing together!</strong>
 </p>
