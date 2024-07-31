@@ -1,5 +1,6 @@
 
-<h1 align="left">👾 Hi, I'm Eric. Check this out:</h1>
+<h1 align="left">👍 Hi, I'm Eric.</h1>
+<h2 align="left">🐙 Check this out:</h2>
 <p align="center">
   <a href="https://ericodle.github.io/conway-gol/">
     <img src="https://github.com/ericodle/conway-gol/blob/main/conway-gol.gif" alt="Conway's Game of Life Animation" />
@@ -9,7 +10,7 @@
   <a href="https://ericodle.github.io/conway-gol/">View HTML Version</a>
 </p>
 
-<h1 align="left">  🔧 Some tools I use:</h1>
+<h2 align="left">  🔧 Some tools I use:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,linux,mint,redhat,latex,python,pytorch,sklearn,opencv,ruby,rails,html,npm,postgres,docker,git,github,notion&perline=9" alt="My Skills" />
