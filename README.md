@@ -7,7 +7,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://ericodle.github.io/conway-gol/">View HTML Version</a>
+  <a href="https://ericodle.github.io/conway-gol/">View Repository</a>
 </p>
 
 <h2 align="left">  🔧 Some tools I use:</h2>
