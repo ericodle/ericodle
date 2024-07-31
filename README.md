@@ -1,4 +1,4 @@
-<h2 align="left">👾 Hi, I'm Eric. Check this out:</h2>
+<h1 align="left">👾 Hi, I'm Eric. Check this out:</h1>
 <p align="center">
   <iframe src="https://your-github-username.github.io/your-repo-name/" width="800" height="800" style="border:none;"></iframe>
 </p>
