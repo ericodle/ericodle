@@ -1,4 +1,4 @@
-<h1 align="center">👋 I'm Eric. I like computers.</h1>
+<h1 align="left">👋 I'm Eric. I like computers.</h1>
 
 <h1 align="left">  🔧 Some tools I use:</h1>
   <a href="https://skillicons.dev">
