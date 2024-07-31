@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/your-github-profile"><img src="https://img.shields.io/github/followers/your-github-profile?label=Follow%20Me&style=social" alt="GitHub Followers"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://orcid.org/0000-0002-3141-042X"><img src="https://img.shields.io/badge/ORCID-xxx" alt="LinkedIn"></a>
 </p>
 <p align="center">
   <strong>Welcome to my GitHub! I'm a passionate Machine Learning/Bioinformatics Researcher.</strong>
