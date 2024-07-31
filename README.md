@@ -6,7 +6,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://ericodle.github.io/conway-gol/">View Interactive Version</a>
+  <a href="https://ericodle.github.io/conway-gol/">View HTML Version</a>
 </p>
 
 <h1 align="left">  🔧 Some tools I use:</h1>
