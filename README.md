@@ -11,13 +11,4 @@
 <p align="center">
   <strong>Welcome to my GitHub! I'm a passionate Machine Learning/Bioinformatics Researcher.</strong>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-profile&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-profile&layout=compact&theme=radical" alt="Top Languages">
-</p>
-<p align="center">
-  <strong>My Tech Stack:</strong>
-</p>
 </p>
