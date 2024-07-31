@@ -3,7 +3,7 @@
 <h2 align="left">🐙 Conway's Game of Life in HTML:</h2>
 <p align="center">
   <a href="https://ericodle.github.io/conway-gol/">
-    <img src="https://github.com/ericodle/conway-gol/blob/main/conway-gol.gif" alt="Conway's Game of Life Animation" width="400" height="400" />
+    <img src="https://github.com/ericodle/conway-gol/blob/main/conway-gol.gif" alt="Conway's Game of Life Animation" width="200" height="200" />
   </a>
 </p>
 <p align="center">
