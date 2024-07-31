@@ -9,6 +9,6 @@
   <a href="https://orcid.org/0000-0002-3141-042X"><img src="https://img.shields.io/badge/ORCID-000000023141042X"></a>
 </p>
 <p align="center">
-  <strong>Welcome to my GitHub! I'm a passionate Machine Learning/Bioinformatics Researcher.</strong>
+  <strong>Welcome to my GitHub page. I like Machine Learning.</strong>
 </p>
 </p>
