@@ -1,7 +1,12 @@
 
 <h1 align="left">👾 Hi, I'm Eric. Check this out:</h1>
 <p align="center">
-  <iframe src="https://ericodle.github.io/conway-gol/" width="800" height="800" style="border:none;"></iframe>
+  <a href="https://ericodle.github.io/conway-gol/">
+    <img src="conway-gol.gif" alt="Conway's Game of Life Animation" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://ericodle.github.io/conway-gol/">View Interactive Version</a>
 </p>
 
 <h1 align="left">  🔧 Some tools I use:</h1>
