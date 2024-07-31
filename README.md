@@ -2,7 +2,7 @@
 <h1 align="left">👾 Hi, I'm Eric. Check this out:</h1>
 <p align="center">
   <a href="https://ericodle.github.io/conway-gol/">
-    <img src="conway-gol.gif" alt="Conway's Game of Life Animation" />
+    <img src="https://github.com/ericodle/conway-gol/blob/main/conway-gol.gif" alt="Conway's Game of Life Animation" />
   </a>
 </p>
 <p align="center">
