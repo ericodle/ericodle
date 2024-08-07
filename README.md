@@ -12,17 +12,6 @@
 
 <h2 align="left">  🔧 Some tools I use:</h2>
 
-### Working on: 🚀
-
-- Learning [GO](https://github.com/sammorozov/go_ilya_kruk)
-- [fullstack web3 development course](https://github.com/sammorozov/full_course_crypto_32) 
-- [ethernaut tasks](https://github.com/sammorozov/ethernaut_source_tasks)
-- Various bots and scripts, with results showcased [here](https://t.me/from_the_teapot_to_the_investor)
-
-
-## Languages and Tools 
-<div>
-
 ### Languages:
 | Python3 | C | JS | Solidity | GO |
 |----------|----------|----------|-----|-----|
