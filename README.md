@@ -1,14 +1,18 @@
 
 <h1 align="left">👍 Hi, I'm Eric.</h1>
 <h2 align="left">🐙 Conway's Game of Life in HTML:</h2>
+
 <p align="center">
   <a href="https://ericodle.github.io/conway-gol/">
     <img src="https://github.com/ericodle/conway-gol/blob/main/conway-gol.gif" alt="Conway's Game of Life Animation" width="200" height="200" />
   </a>
 </p>
+
 <p align="center">
   <a> Click image to run in browser </a>
-  <a> \n </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/ericodle/conway-gol">View repository</a>
 </p>
 
