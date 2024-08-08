@@ -8,6 +8,7 @@
 </p>
 <p align="center">
   <a> Click image to run in browser </a>
+  <a>  </a>
   <a href="https://github.com/ericodle/conway-gol">View repository</a>
 </p>
 
