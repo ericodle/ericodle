@@ -25,7 +25,7 @@
 
   
 
-### Often-used libraries and frameworks:
+### Often-used libraries:
 
 | Pytorch | Numpy | Pandas | Sklearn | OpenCV | Matpltlib |
 |----------|----------|----------|----------|----------|----------|
