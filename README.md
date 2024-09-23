@@ -19,9 +19,9 @@
 <h2 align="left">  🔧 Some tools I use:</h2>
 
 ### Languages, etc.:
-| Python3 | Ruby | JS | HTML5 | Bash |
+| Python3 | Ruby | JS | HTML5 | CSS | Bash |
 |----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby"  alt="Ruby" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="55" height="55"/> | 
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby"  alt="Ruby" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bash/css3-original.svg" title="css3" alt="css3" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="55" height="55"/> | 
 
   
 
