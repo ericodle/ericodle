@@ -34,9 +34,9 @@
   
 ### Frameworks:
 
-| Pytorch | Rails | Nuxt.js | Pytest | Rspec | Flask |
+| Pytorch | Rails | Nuxt.js | 
 |----------|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" title="Rails" alt="Rails" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original.svg" title="rspec" alt="rspec" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="55" height="55"/>|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" title="Rails" alt="Rails" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Docker" alt="Docker" width="55" height="55"/>|
 
 
   
