@@ -1,7 +1,7 @@
 
 <h1 align="left">👍 Hi, I'm Eric.</h1>
 
-```
+//
 <h2 align="left">🐙 Conway's Game of Life in HTML:</h2>
 
 <p align="center">
@@ -17,7 +17,9 @@
 <p align="center">
   <a href="https://github.com/ericodle/conway-gol">View repository</a>
 </p>
-```
+//
+
+
 <h2 align="left">  🔧 Some tools I use:</h2>
 
 
