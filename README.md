@@ -35,7 +35,7 @@
 ### Frameworks:
 
 | Pytorch | Rails | Nuxt.js | 
-|----------|----------|----------|----------|----------|----------|
+|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" title="Rails" alt="Rails" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Docker" alt="Docker" width="55" height="55"/>|
 
 
