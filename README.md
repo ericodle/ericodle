@@ -42,7 +42,7 @@
 
 | Pytorch | Rails | Nuxt.js |Vue.js | 
 |----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" title="Rails" alt="Rails" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="nuxt" alt="nuxt" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/nuxtjs-original.svg" title="vue" alt="vue" width="55" height="55"/>|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" title="Rails" alt="Rails" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="nuxt" alt="nuxt" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vue" alt="vue" width="55" height="55"/>|
 
 
   
